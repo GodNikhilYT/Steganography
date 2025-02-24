@@ -5,11 +5,20 @@ This project is part of my AICTE internship on cybersecurity, focusing on stegan
 I've used - python3, OS Module, OpenCV, and NumPy library.
 
 ## Project Description:
-This project implements Image Steganography, a technique used to hide secret messages inside an image without noticeable changes. 
+"This project implements Image Steganography, a technique used to hide secret messages inside an image without noticeable changes. 
 
-The project is built using Python, OpenCV, and NumPy, allowing users to embed a hidden message into an image and later extract it.
+The project is built using Python, OpenCV, and NumPy, allowing users to embed a hidden message into an image and later extract it."
 
-Features - ✅ Secure Encryption – Protects hidden data using strong cryptographic algorithms. ✅ Image Quality Preservation – Ensures minimal distortion after embedding data. ✅ Attack Resistance – Designed to withstand steganalysis and hacking attempts.
+Features - 
+
+✅ Secure Encryption – 
+Protects hidden data using strong cryptographic algorithms.
+
+✅ Image Quality Preservation –
+Ensures minimal distortion after embedding data. 
+
+✅ Attack Resistance –
+Designed to withstand steganalysis and hacking attempts.
 
 Project Structure - 📄 Presentation (PPT) – Explains the methodology, implementation, and results. 💻 Code – Core implementation of the steganography system. 🔍 Object File – Compiled object.
 
