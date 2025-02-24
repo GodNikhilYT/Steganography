@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Nikhil Choudhary - Teerthanker Mahaveer University 
 
-This project is part of my AICTE internship on cybersecurity, focusing on steganography.
+This project is part of my <b> AICTE internship </b> on cybersecurity, focusing on steganography.
 
 I've used - python3, OS Module, OpenCV, and NumPy library.
 
