@@ -83,8 +83,6 @@ The project is built using Python, OpenCV, and NumPy, allowing users to embed a 
 
 * Data Hiding – Conceal sensitive data within images without suspicion.
 
-🚀 This project provides a simple yet powerful way to hide and retrieve secret messages in images! 😊
-
 ## 🎬 Demo -
 
 ## Step 1.
@@ -112,3 +110,5 @@ The project is built using Python, OpenCV, and NumPy, allowing users to embed a 
  ✅ Successfully Compile the code of Steganography given encrypted image
 
  ![Image](https://github.com/user-attachments/assets/67068940-101e-4c1c-8f7d-3485da84e863)
+
+# 🚀 This project provides a simple yet powerful way to hide and retrieve secret messages in images! 😊
