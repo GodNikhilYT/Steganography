@@ -2,7 +2,7 @@
 
 This project is part of my AICTE internship on cybersecurity, focusing on steganography.
 
-I've used -  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>python3 </a>, OS Module, OpenCV, and NumPy library.
+I've used - python3, OS Module, OpenCV, and NumPy library.
 
 ## Project Description:
 "This project implements Image Steganography, a technique used to hide secret messages inside an image without noticeable changes. 
