@@ -9,7 +9,7 @@ I've used - python3, OS Module, OpenCV, and NumPy library.
 
 The project is built using Python, OpenCV, and NumPy, allowing users to embed a hidden message into an image and later extract it."
 
-🔹 Key Features
+###🔹 Key Features
 
 ✅ Embed Message in an Image
 
@@ -85,9 +85,6 @@ Data Hiding – Conceal sensitive data within images without suspicion.
 
 🚀 This project provides a simple yet powerful way to hide and retrieve secret messages in images! 😊
 
-
-
-Project Structure - 📄 Presentation (PPT) – Explains the methodology, implementation, and results. 💻 Code – Core implementation of the steganography system. 🔍 Object File – Compiled object.
 
 ## Step 1.
  ✅ Source Code of Steganography
