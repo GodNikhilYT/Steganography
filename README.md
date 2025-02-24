@@ -9,11 +9,11 @@ I've used - python3, OS Module, OpenCV, and NumPy library.
 
 The project is built using Python, OpenCV, and NumPy, allowing users to embed a hidden message into an image and later extract it."
 
-### 🔑🔹 Key Features
+### 🔑 Key Features
 
 ✅ Embed Message in an Image
 
-   Converts the message into binary format.
+Converts the message into binary format.
 
 Modifies the least significant bit (LSB) of each pixel in the image to store the binary data.
 
@@ -43,7 +43,7 @@ Prevents embedding messages that are too large for the image.
 
 Fixes potential integer overflow errors during pixel modifications.
 
-###  🔹 Technologies Used
+###  📌 Technologies Used
 
 Python – Programming Language
 
@@ -53,7 +53,7 @@ NumPy – For handling pixel manipulation
 
 OS Module – File handling
 
-###  🔹 How It Works
+###  🛠️ How It Works
 
 📝 Embedding a Message (Encoding)
 
@@ -75,7 +75,7 @@ Convert the extracted binary data back into text.
 
 Display the hidden message.
 
-### 🔹 Use Cases
+### 📋 Use Cases
 
 Secure Communication – Hide messages in images for secret sharing.
 
