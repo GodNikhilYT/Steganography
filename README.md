@@ -55,7 +55,7 @@ The project is built using Python, OpenCV, and NumPy, allowing users to embed a 
 
 ###  🛠️ How It Works
 
-📝 Embedding a Message (Encoding)
+* Embedding a Message (Encoding)
 
 * Read an image file.
 
