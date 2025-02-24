@@ -39,7 +39,7 @@ The project is built using Python, OpenCV, and NumPy, allowing users to embed a 
 
 * Ensures the image file exists before processing.
 
-*Prevents embedding messages that are too large for the image.
+* Prevents embedding messages that are too large for the image.
 
 * Fixes potential integer overflow errors during pixel modifications.
 
