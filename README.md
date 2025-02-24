@@ -9,7 +9,7 @@ I've used - python3, OS Module, OpenCV, and NumPy library.
 
 The project is built using Python, OpenCV, and NumPy, allowing users to embed a hidden message into an image and later extract it."
 
-###🔹 Key Features
+##🔹 Key Features
 
 ✅ Embed Message in an Image
 
