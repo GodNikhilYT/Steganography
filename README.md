@@ -11,7 +11,8 @@ Features - ✅ Secure Encryption – Protects hidden data using strong cryptogra
 Project Structure - 📄 Presentation (PPT) – Explains the methodology, implementation, and results. 💻 Code – Core implementation of the steganography system. 🔍 Object File – Compiled object.
 
 ## Step 1.
-("Source Code of Steganography")
+ ✅ Source Code of Steganography
+ 
 ![Image](https://github.com/user-attachments/assets/1ef41f4c-926c-447d-a6a7-6462b4e2990d)
 
 ![Image](https://github.com/user-attachments/assets/8eae251d-a868-4a1c-8f6b-f8071d92c056)
