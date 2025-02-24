@@ -43,7 +43,7 @@ Prevents embedding messages that are too large for the image.
 
 Fixes potential integer overflow errors during pixel modifications.
 
-🔹 Technologies Used
+###  🔹 Technologies Used
 
 Python – Programming Language
 
@@ -53,7 +53,7 @@ NumPy – For handling pixel manipulation
 
 OS Module – File handling
 
-🔹 How It Works
+###  🔹 How It Works
 
 📝 Embedding a Message (Encoding)
 
@@ -65,7 +65,7 @@ Modify the Least Significant Bit (LSB) of pixel values to store the message.
 
 Save the modified image.
 
-🔍 Extracting a Message (Decoding)
+###  🔍 Extracting a Message (Decoding)
 
 Load the modified image.
 
@@ -75,7 +75,7 @@ Convert the extracted binary data back into text.
 
 Display the hidden message.
 
-🔹 Use Cases
+### 🔹 Use Cases
 
 Secure Communication – Hide messages in images for secret sharing.
 
