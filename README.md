@@ -18,3 +18,8 @@ Project Structure - 📄 Presentation (PPT) – Explains the methodology, implem
 ![Image](https://github.com/user-attachments/assets/8eae251d-a868-4a1c-8f6b-f8071d92c056)
 
 ![Image](https://github.com/user-attachments/assets/f746eb8c-e055-4ba3-891b-f167a9c6d095)
+
+## Step 2.
+ ✅ Compile the code of Steganography
+
+ ![Image](https://github.com/user-attachments/assets/2f6a2be9-8857-4df5-bca7-c0d6f4f9181f)
