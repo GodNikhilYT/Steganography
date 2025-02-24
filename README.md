@@ -1,19 +1,19 @@
-# Nikhil Choudhary - Teerthanker Mahaveer University 
+# 👨🏻‍💻 Nikhil Choudhary - Teerthanker Mahaveer University 
 
 This project is part of my AICTE internship on cybersecurity, focusing on steganography.
 
 I've used - python3, OS Module, OpenCV, and NumPy library.
 
-## Project Description:
+## 🎯 Project Description:
 "This project implements Image Steganography, a technique used to hide secret messages inside an image without noticeable changes. 
 
 The project is built using Python, OpenCV, and NumPy, allowing users to embed a hidden message into an image and later extract it."
 
-### 🔹 Key Features
+### 🔑🔹 Key Features
 
 ✅ Embed Message in an Image
 
-Converts the message into binary format.
+   Converts the message into binary format.
 
 Modifies the least significant bit (LSB) of each pixel in the image to store the binary data.
 
