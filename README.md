@@ -1,22 +1,22 @@
 # Project Description:
 This project implements Image Steganography, a technique used to hide secret messages inside an image without noticeable changes. The project is built using Python, OpenCV, and NumPy, allowing users to embed a hidden message into an image and later extract it.
-🔹 Key Features
-✅ Embed Message in an Image
+##🔹 Key Features
+# ✅ Embed Message in an Image
 
 Converts the message into binary format.
 Modifies the least significant bit (LSB) of each pixel in the image to store the binary data.
 Saves the new "stego image" with the hidden message.
-✅ Extract Message from an Image
+# ✅ Extract Message from an Image
 
 Reads the least significant bits (LSB) of each pixel.
 Converts extracted binary data back into readable text.
 Stops reading when the delimiter ("#####") is found.
-✅ Secure and Efficient
+# ✅ Secure and Efficient
 
 The message is hidden at a pixel level, making it undetectable to the human eye.
 Uses a fixed delimiter ("#####") to identify the end of the message.
 Ensures that the message does not exceed image capacity before embedding.
-✅ Error Handling
+# ✅ Error Handling
 
 Ensures the image file exists before processing.
 Prevents embedding messages that are too large for the image.
