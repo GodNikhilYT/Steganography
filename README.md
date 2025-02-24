@@ -9,3 +9,6 @@ This project is part of my AICTE internship on cybersecurity, focusing on stegan
 Features - ✅ Secure Encryption – Protects hidden data using strong cryptographic algorithms. ✅ Image Quality Preservation – Ensures minimal distortion after embedding data. ✅ Attack Resistance – Designed to withstand steganalysis and hacking attempts.
 
 Project Structure - 📄 Presentation (PPT) – Explains the methodology, implementation, and results. 💻 Code – Core implementation of the steganography system. 🔍 Object File – Compiled object.
+
+## Step 1.
+![Image](https://github.com/user-attachments/assets/f746eb8c-e055-4ba3-891b-f167a9c6d095)
