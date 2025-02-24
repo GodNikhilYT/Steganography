@@ -13,75 +13,75 @@ The project is built using Python, OpenCV, and NumPy, allowing users to embed a 
 
 ✅ Embed Message in an Image
 
-Converts the message into binary format.
+* Converts the message into binary format.
 
-Modifies the least significant bit (LSB) of each pixel in the image to store the binary data.
+* Modifies the least significant bit (LSB) of each pixel in the image to store the binary data.
 
-Saves the new "stego image" with the hidden message.
+* Saves the new "stego image" with the hidden message.
 
 ✅ Extract Message from an Image
 
-Reads the least significant bits (LSB) of each pixel.
+* Reads the least significant bits (LSB) of each pixel.
 
-Converts extracted binary data back into readable text.
+* Converts extracted binary data back into readable text.
 
-Stops reading when the delimiter ("#####") is found.
+* Stops reading when the delimiter ("#####") is found.
 
 ✅ Secure and Efficient
 
-The message is hidden at a pixel level, making it undetectable to the human eye.
+* The message is hidden at a pixel level, making it undetectable to the human eye.
 
-Uses a fixed delimiter ("#####") to identify the end of the message.
+* Uses a fixed delimiter ("#####") to identify the end of the message.
 
-Ensures that the message does not exceed image capacity before embedding.
+* Ensures that the message does not exceed image capacity before embedding.
 
 ✅ Error Handling
 
-Ensures the image file exists before processing.
+* Ensures the image file exists before processing.
 
-Prevents embedding messages that are too large for the image.
+*Prevents embedding messages that are too large for the image.
 
-Fixes potential integer overflow errors during pixel modifications.
+* Fixes potential integer overflow errors during pixel modifications.
 
 ###  📌 Technologies Used
 
-Python – Programming Language
+* Python – Programming Language
 
-OpenCV – Image Processing Library
+* OpenCV – Image Processing Library
 
-NumPy – For handling pixel manipulation
+* NumPy – For handling pixel manipulation
 
-OS Module – File handling
+* OS Module – File handling
 
 ###  🛠️ How It Works
 
 📝 Embedding a Message (Encoding)
 
-Read an image file.
+* Read an image file.
 
-Convert the input text into binary format.
+* Convert the input text into binary format.
 
-Modify the Least Significant Bit (LSB) of pixel values to store the message.
+* Modify the Least Significant Bit (LSB) of pixel values to store the message.
 
-Save the modified image.
+* Save the modified image.
 
 ###  🔍 Extracting a Message (Decoding)
 
-Load the modified image.
+* Load the modified image.
 
-Extract the LSB values from pixels.
+* Extract the LSB values from pixels.
 
-Convert the extracted binary data back into text.
+* Convert the extracted binary data back into text.
 
-Display the hidden message.
+* Display the hidden message.
 
 ### 📋 Use Cases
 
-Secure Communication – Hide messages in images for secret sharing.
+* Secure Communication – Hide messages in images for secret sharing.
 
-Digital Watermarking – Embed invisible copyright marks in images.
+* Digital Watermarking – Embed invisible copyright marks in images.
 
-Data Hiding – Conceal sensitive data within images without suspicion.
+* Data Hiding – Conceal sensitive data within images without suspicion.
 
 🚀 This project provides a simple yet powerful way to hide and retrieve secret messages in images! 😊
 
