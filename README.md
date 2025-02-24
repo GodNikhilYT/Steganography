@@ -2,7 +2,7 @@
 
 This project is part of my AICTE internship on cybersecurity, focusing on steganography.
 
-I've used - python3, Python, OpenCV, and NumPy library.
+I've used - python3, OS Module, OpenCV, and NumPy library.
 
 ## Project Description:
 This project implements Image Steganography, a technique used to hide secret messages inside an image without noticeable changes. 
