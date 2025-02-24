@@ -85,7 +85,7 @@ Data Hiding – Conceal sensitive data within images without suspicion.
 
 🚀 This project provides a simple yet powerful way to hide and retrieve secret messages in images! 😊
 
-## 🚀 Demo
+## 🎬 Demo -
 
 ## Step 1.
  ✅ Source Code of Steganography
