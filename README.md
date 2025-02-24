@@ -9,16 +9,83 @@ I've used - python3, OS Module, OpenCV, and NumPy library.
 
 The project is built using Python, OpenCV, and NumPy, allowing users to embed a hidden message into an image and later extract it."
 
-Features - 
+🔹 Key Features
 
-✅ Secure Encryption – 
-Protects hidden data using strong cryptographic algorithms.
+✅ Embed Message in an Image
 
-✅ Image Quality Preservation –
-Ensures minimal distortion after embedding data. 
+Converts the message into binary format.
 
-✅ Attack Resistance –
-Designed to withstand steganalysis and hacking attempts.
+Modifies the least significant bit (LSB) of each pixel in the image to store the binary data.
+
+Saves the new "stego image" with the hidden message.
+
+✅ Extract Message from an Image
+
+Reads the least significant bits (LSB) of each pixel.
+
+Converts extracted binary data back into readable text.
+
+Stops reading when the delimiter ("#####") is found.
+
+✅ Secure and Efficient
+
+The message is hidden at a pixel level, making it undetectable to the human eye.
+
+Uses a fixed delimiter ("#####") to identify the end of the message.
+
+Ensures that the message does not exceed image capacity before embedding.
+
+✅ Error Handling
+
+Ensures the image file exists before processing.
+
+Prevents embedding messages that are too large for the image.
+
+Fixes potential integer overflow errors during pixel modifications.
+
+🔹 Technologies Used
+
+Python – Programming Language
+
+OpenCV – Image Processing Library
+
+NumPy – For handling pixel manipulation
+
+OS Module – File handling
+
+🔹 How It Works
+
+📝 Embedding a Message (Encoding)
+
+Read an image file.
+
+Convert the input text into binary format.
+
+Modify the Least Significant Bit (LSB) of pixel values to store the message.
+
+Save the modified image.
+
+🔍 Extracting a Message (Decoding)
+
+Load the modified image.
+
+Extract the LSB values from pixels.
+
+Convert the extracted binary data back into text.
+
+Display the hidden message.
+
+🔹 Use Cases
+
+Secure Communication – Hide messages in images for secret sharing.
+
+Digital Watermarking – Embed invisible copyright marks in images.
+
+Data Hiding – Conceal sensitive data within images without suspicion.
+
+🚀 This project provides a simple yet powerful way to hide and retrieve secret messages in images! 😊
+
+
 
 Project Structure - 📄 Presentation (PPT) – Explains the methodology, implementation, and results. 💻 Code – Core implementation of the steganography system. 🔍 Object File – Compiled object.
 
