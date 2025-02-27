@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Nikhil Choudhary - Teerthanker Mahaveer University 
+# 👨🏻‍💻 Nikhil Choudhary - 🏛️ Teerthanker Mahaveer University 
 
 This project is part of my <b> AICTE internship </b> on <b> cybersecurity </b>, focusing on steganography.
 
